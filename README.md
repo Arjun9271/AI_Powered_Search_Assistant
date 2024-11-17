@@ -121,6 +121,4 @@ The application can be configured through the following environment variables:
 - Streamlit for the frontend framework
 - Flask for the backend framework
 
-## 📧 Contact
 
-For questions or support, please open an issue in the GitHub repository.
