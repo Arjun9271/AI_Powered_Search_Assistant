@@ -41,7 +41,7 @@ A powerful web application that combines AI-driven search capabilities with inte
 1. Clone the repository:
 ```bash
 git clone https://github.com/Arjun9271/AI_Powered_Search_Assistant.git
-cd ai-search-assistant
+
 ```
 
 2. Create and activate a virtual environment:
