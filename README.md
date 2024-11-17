@@ -40,7 +40,7 @@ A powerful web application that combines AI-driven search capabilities with inte
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-search-assistant.git
+git clone https://github.com/Arjun9271/AI_Powered_Search_Assistant.git
 cd ai-search-assistant
 ```
 
@@ -98,17 +98,9 @@ The application can be configured through the following environment variables:
 - `SERPER_API_KEY`: Your Google Search API key from Serper
 - `GROQ_API_KEY`: Your API key for accessing Groq's LLM services
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to your branch
-5. Create a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔍 Usage Example
 
@@ -118,20 +110,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Wait for the AI to process your query
 5. Review the generated answer and provided sources
 
-## ⚠️ Error Handling
 
-The application includes comprehensive error handling:
-- Backend service availability checking
-- API rate limiting management
-- Content processing error handling
-- Network timeout handling
 
-## 🔒 Security Considerations
 
-- API keys are stored securely in environment variables
-- User input is sanitized before processing
-- Rate limiting is implemented to prevent abuse
-- Error messages are sanitized to prevent information leakage
 
 ## 🤝 Acknowledgments
 
